@@ -16,10 +16,10 @@ With a passion for both technology and creativity, I am constantly seeking out n
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 
-# 📝 Publications:
+# Publications:
 1. Sai Venkata Surya Punugoti, Dhruv Kumar, and Dr. Meena Vangalapati. *A Study on Machine Learning Methods: Application for Amido Black Dye Adsorption Prediction onto Green Algae Powder-Activated Carbon*. IJERT 2024, Paper ID: IJERTV13IS050153. [Link](https://www.ijert.org/machine-learning-methods-application-for-amido-black-dye-adsorption-prediction-on-to-green-algae-powder-activated-carbon)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![SnookyDru's Stats](https://github-readme-stats.vercel.app/api?username=SnookyDru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![SnookyDru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnookyDru&theme=vue-dark&hide_border=true)
@@ -30,5 +30,5 @@ With a passion for both technology and creativity, I am constantly seeking out n
 
 [![](https://visitcount.itsvg.in/api?id=SnookyDru&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SnookyDru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
