@@ -1,5 +1,5 @@
 # About Me:
-As a Machine Learning student based in Noida, India, I am currently working with the Indian Space Research Organisation (ISRO) as an ML Intern, where I specialize in computer vision, machine learning, and Multi-Model inference. With a keen interest in deep learning, I enjoy delving into academic papers and talking about complex concepts with newcomers and experts in the field.
+As a Machine Learning student based in Noida, India, I worked with the Indian Space Research Organisation (ISRO) as an ML Intern, where I specialize in computer vision, machine learning, and Multi-Model inference. With a keen interest in deep learning, I enjoy delving into academic papers and talking about complex concepts with newcomers and experts in the field.
 
 Beyond my technical work, I am also an avid designer and photographer who loves to explore new ways of storytelling. Whether it's through visual art, street photography, or creative writing, I am always on the lookout for compelling narratives to bring to life.
 
